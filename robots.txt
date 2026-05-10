@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amjad-amin50.github.io/sitemap.xml
